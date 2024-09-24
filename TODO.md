@@ -3,3 +3,4 @@
 2. Modern CNN chapter!!
 3. Train AlexNet and VGG in GPU, it's too slow in CPU.
 4. RNN/RNN-basic/RNN-scratch.ipynb is not train successfully!!!! should debug it.
+5. Review RNN/RNN-modern/seq2seq later, it's complex!!!!!!!!
